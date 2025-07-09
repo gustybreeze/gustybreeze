@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @gustybreeze
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 📫 How to reach me: Insta, @gustybreeze_
-- 😄 Pronouns: He/Him
+- 💻 I’m interested in coding.
+- 🐍 I’m currently learning python.
+- 😄 Pronouns: He/Him.
   
 
 <!---
