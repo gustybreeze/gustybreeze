@@ -20,10 +20,9 @@ I'm open to Python Developer Internships 💼
 | Project Name     | Description                                   | Code Link |
 |------------------|-----------------------------------------------|-----------|
 | Calculator App | A CLI calculator for basic arithmetic         | [View Code](https://github.com/gustybreeze/python-calculator) |
-| To-Do App      | A task manager that adds & deletes tasks      | [View Code](https://github.com/gustybreeze/to-do-app) |
-| Quiz App       | A command-line quiz app with scoring          | [View Code](https://github.com/gustybreeze/quiz-app) |
-| File Organizer | Organizes files into folders automatically    | [View Code](https://github.com/gustybreeze/file-organizer) |
-| Password Generator | Creates secure random passwords           | [View Code](https://github.com/gustybreeze/password-generator) |
+| To-Do App      | A task manager that adds & deletes tasks      | [View Code](https://github.com/gustybreeze/python-to-do-list-app) |
+| Quiz App       | A command-line quiz app with scoring          | [View Code](https://github.com/gustybreeze/python-quiz-app) |
+| Password Generator | Creates secure random passwords           | [View Code](https://github.com/gustybreeze/python-password-generator-app) |
 
 > You can explore all my projects at: [github.com/gustybreeze](https://github.com/gustybreeze)
 
