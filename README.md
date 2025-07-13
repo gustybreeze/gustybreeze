@@ -19,7 +19,7 @@ I'm open to Python Developer Internships 💼
 
 | Project Name     | Description                                   | Code Link |
 |------------------|-----------------------------------------------|-----------|
-| Calculator App | A CLI calculator for basic arithmetic         | [View Code](https://github.com/gustybreeze/calculator-app) |
+| Calculator App | A CLI calculator for basic arithmetic         | [View Code](https://github.com/gustybreeze/python-calculator) |
 | To-Do App      | A task manager that adds & deletes tasks      | [View Code](https://github.com/gustybreeze/to-do-app) |
 | Quiz App       | A command-line quiz app with scoring          | [View Code](https://github.com/gustybreeze/quiz-app) |
 | File Organizer | Organizes files into folders automatically    | [View Code](https://github.com/gustybreeze/file-organizer) |
