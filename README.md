@@ -1,4 +1,4 @@
-# Hi, I'm Sameer Mishra (gustybreeze)
+# Hi, I'm Sameer Kumar Mishra (gustybreeze)
 
 I'm a Python Developer who loves building useful and creative applications.  
 Currently learning Web Development and actively working on real-world Python projects.  
