@@ -40,7 +40,7 @@ I'm open to Python Developer Internships 💼
 ### Contact Me
 
 - Email: sameermishra742@gmail.com 
-- LinkedIn: www.linkedin.com/in/sameer-mishra-b40644215
+- LinkedIn: https://www.linkedin.com/in/sameer-kumar-mishra-b40644215
 
 ---
  
